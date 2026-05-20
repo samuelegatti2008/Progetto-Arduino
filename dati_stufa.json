@@ -1,0 +1,266 @@
+[
+    {
+        "Lettura_numero": 1,
+        "Timestamp": "2026-05-06 13:52:59",
+        "Temperatura": 22.0,
+        "Gas": 120,
+        "Stato_stufa": "ACCESA",
+        "Messaggio": "Temperatura bassa - Stufa accesa"
+    },
+    {
+        "Lettura_numero": 2,
+        "Timestamp": "2026-05-06 13:53:00",
+        "Temperatura": 22.0,
+        "Gas": 108,
+        "Stato_stufa": "ACCESA",
+        "Messaggio": "Temperatura bassa - Stufa accesa"
+    },
+    {
+        "Lettura_numero": 3,
+        "Timestamp": "2026-05-06 13:53:01",
+        "Temperatura": 22.0,
+        "Gas": 123,
+        "Stato_stufa": "ACCESA",
+        "Messaggio": "Temperatura bassa - Stufa accesa"
+    },
+    {
+        "Lettura_numero": 4,
+        "Timestamp": "2026-05-06 13:53:03",
+        "Temperatura": 22.0,
+        "Gas": 119,
+        "Stato_stufa": "ACCESA",
+        "Messaggio": "Temperatura bassa - Stufa accesa"
+    },
+    {
+        "Lettura_numero": 5,
+        "Timestamp": "2026-05-06 13:53:05",
+        "Temperatura": 22.0,
+        "Gas": 119,
+        "Stato_stufa": "ACCESA",
+        "Messaggio": "Temperatura bassa - Stufa accesa"
+    },
+    {
+        "Lettura_numero": 6,
+        "Timestamp": "2026-05-06 13:53:06",
+        "Temperatura": 22.0,
+        "Gas": 122,
+        "Stato_stufa": "ACCESA",
+        "Messaggio": "Temperatura bassa - Stufa accesa"
+    },
+    {
+        "Lettura_numero": 7,
+        "Timestamp": "2026-05-06 13:53:07",
+        "Temperatura": 24.0,
+        "Gas": 119,
+        "Stato_stufa": "SPENTA",
+        "Messaggio": "Temperatura ideale - Stufa spenta"
+    },
+    {
+        "Lettura_numero": 8,
+        "Timestamp": "2026-05-06 13:53:08",
+        "Temperatura": 24.0,
+        "Gas": 112,
+        "Stato_stufa": "SPENTA",
+        "Messaggio": "Temperatura ideale - Stufa spenta"
+    },
+    {
+        "Lettura_numero": 9,
+        "Timestamp": "2026-05-06 13:53:09",
+        "Temperatura": 24.0,
+        "Gas": 117,
+        "Stato_stufa": "SPENTA",
+        "Messaggio": "Temperatura ideale - Stufa spenta"
+    },
+    {
+        "Lettura_numero": 10,
+        "Timestamp": "2026-05-06 13:53:11",
+        "Temperatura": 24.0,
+        "Gas": 118,
+        "Stato_stufa": "SPENTA",
+        "Messaggio": "Temperatura ideale - Stufa spenta"
+    },
+    {
+        "Lettura_numero": 11,
+        "Timestamp": "2026-05-06 13:53:12",
+        "Temperatura": 25.0,
+        "Gas": 123,
+        "Stato_stufa": "SPENTA",
+        "Messaggio": "Temperatura ideale - Stufa spenta"
+    },
+    {
+        "Lettura_numero": 12,
+        "Timestamp": "2026-05-06 13:53:14",
+        "Temperatura": 25.0,
+        "Gas": 123,
+        "Stato_stufa": "SPENTA",
+        "Messaggio": "Temperatura ideale - Stufa spenta"
+    },
+    {
+        "Lettura_numero": 13,
+        "Timestamp": "2026-05-06 13:53:16",
+        "Temperatura": 25.0,
+        "Gas": 116,
+        "Stato_stufa": "SPENTA",
+        "Messaggio": "Temperatura ideale - Stufa spenta"
+    },
+    {
+        "Lettura_numero": 14,
+        "Timestamp": "2026-05-06 13:53:18",
+        "Temperatura": 26.0,
+        "Gas": 121,
+        "Stato_stufa": "SPENTA",
+        "Messaggio": "Temperatura ideale - Stufa spenta"
+    },
+    {
+        "Lettura_numero": 15,
+        "Timestamp": "2026-05-06 13:53:20",
+        "Temperatura": 26.0,
+        "Gas": 117,
+        "Stato_stufa": "SPENTA",
+        "Messaggio": "Temperatura ideale - Stufa spenta"
+    },
+    {
+        "Lettura_numero": 16,
+        "Timestamp": "2026-05-06 13:53:23",
+        "Temperatura": 26.0,
+        "Gas": 107,
+        "Stato_stufa": "SPENTA",
+        "Messaggio": "Temperatura ideale - Stufa spenta"
+    },
+    {
+        "Lettura_numero": 17,
+        "Timestamp": "2026-05-06 13:53:25",
+        "Temperatura": 27.0,
+        "Gas": 105,
+        "Stato_stufa": "SPENTA",
+        "Messaggio": "Temperatura ideale - Stufa spenta"
+    },
+    {
+        "Lettura_numero": 18,
+        "Timestamp": "2026-05-06 13:53:27",
+        "Temperatura": 27.0,
+        "Gas": 120,
+        "Stato_stufa": "SPENTA",
+        "Messaggio": "Temperatura ideale - Stufa spenta"
+    },
+    {
+        "Lettura_numero": 19,
+        "Timestamp": "2026-05-06 13:53:29",
+        "Temperatura": 28.0,
+        "Gas": 104,
+        "Stato_stufa": "SPENTA",
+        "Messaggio": "Temperatura alta - Stufa spenta"
+    },
+    {
+        "Lettura_numero": 20,
+        "Timestamp": "2026-05-06 13:53:31",
+        "Temperatura": 28.0,
+        "Gas": 118,
+        "Stato_stufa": "SPENTA",
+        "Messaggio": "Temperatura alta - Stufa spenta"
+    },
+    {
+        "Lettura_numero": 21,
+        "Timestamp": "2026-05-06 13:53:33",
+        "Temperatura": 27.0,
+        "Gas": 114,
+        "Stato_stufa": "SPENTA",
+        "Messaggio": "Temperatura ideale - Stufa spenta"
+    },
+    {
+        "Lettura_numero": 22,
+        "Timestamp": "2026-05-06 13:53:35",
+        "Temperatura": 25.0,
+        "Gas": 110,
+        "Stato_stufa": "SPENTA",
+        "Messaggio": "Temperatura ideale - Stufa spenta"
+    },
+    {
+        "Lettura_numero": 23,
+        "Timestamp": "2026-05-06 13:53:37",
+        "Temperatura": 25.0,
+        "Gas": 116,
+        "Stato_stufa": "SPENTA",
+        "Messaggio": "Temperatura ideale - Stufa spenta"
+    },
+    {
+        "Lettura_numero": 24,
+        "Timestamp": "2026-05-06 13:53:38",
+        "Temperatura": 25.0,
+        "Gas": 104,
+        "Stato_stufa": "SPENTA",
+        "Messaggio": "Temperatura ideale - Stufa spenta"
+    },
+    {
+        "Lettura_numero": 25,
+        "Timestamp": "2026-05-06 13:53:41",
+        "Temperatura": 25.0,
+        "Gas": 102,
+        "Stato_stufa": "SPENTA",
+        "Messaggio": "Temperatura ideale - Stufa spenta"
+    },
+    {
+        "Lettura_numero": 26,
+        "Timestamp": "2026-05-06 13:53:43",
+        "Temperatura": 24.0,
+        "Gas": 105,
+        "Stato_stufa": "SPENTA",
+        "Messaggio": "Temperatura ideale - Stufa spenta"
+    },
+    {
+        "Lettura_numero": 27,
+        "Timestamp": "2026-05-06 13:53:45",
+        "Temperatura": 24.0,
+        "Gas": 118,
+        "Stato_stufa": "SPENTA",
+        "Messaggio": "Temperatura ideale - Stufa spenta"
+    },
+    {
+        "Lettura_numero": 28,
+        "Timestamp": "2026-05-06 13:53:47",
+        "Temperatura": 24.0,
+        "Gas": 111,
+        "Stato_stufa": "SPENTA",
+        "Messaggio": "Temperatura ideale - Stufa spenta"
+    },
+    {
+        "Lettura_numero": 29,
+        "Timestamp": "2026-05-06 13:53:49",
+        "Temperatura": 24.0,
+        "Gas": 113,
+        "Stato_stufa": "SPENTA",
+        "Messaggio": "Temperatura ideale - Stufa spenta"
+    },
+    {
+        "Lettura_numero": 30,
+        "Timestamp": "2026-05-06 13:53:51",
+        "Temperatura": 24.0,
+        "Gas": 111,
+        "Stato_stufa": "SPENTA",
+        "Messaggio": "Temperatura ideale - Stufa spenta"
+    },
+    {
+        "Lettura_numero": 31,
+        "Timestamp": "2026-05-06 13:53:53",
+        "Temperatura": 23.0,
+        "Gas": 114,
+        "Stato_stufa": "ACCESA",
+        "Messaggio": "Temperatura bassa - Stufa accesa"
+    },
+    {
+        "Lettura_numero": 32,
+        "Timestamp": "2026-05-06 13:53:55",
+        "Temperatura": 23.0,
+        "Gas": 112,
+        "Stato_stufa": "ACCESA",
+        "Messaggio": "Temperatura bassa - Stufa accesa"
+    },
+    {
+        "Lettura_numero": 33,
+        "Timestamp": "2026-05-06 13:53:57",
+        "Temperatura": 23.0,
+        "Gas": 124,
+        "Stato_stufa": "ACCESA",
+        "Messaggio": "Temperatura bassa - Stufa accesa"
+    }
+]
